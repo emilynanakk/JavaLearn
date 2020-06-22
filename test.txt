@@ -2,3 +2,4 @@
 设置中文不乱码
 我在javalearn的分支上修改并提交了该文件
 version1
+version2
