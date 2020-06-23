@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0615a53c-37ea-4f53-88b2-286929e326a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/DependTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/TimeOutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/multiThread/MultiThreadOnAnnotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/multiThread/MultiThreadOnXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/paramter/DataProviderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/paramter/ParamterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn01/src/main/resources/Paramter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn01/src/main/resources/multiThread.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/BassicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/BassicAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn01/target/classes/com/java/testng/BassicAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn01/target/classes/com/java/testng/BassicAnnotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn01/target/classes/groupsOnClass.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn01/target/classes/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn01/target/classes/META-INF/Learn01.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592813930096</updated>
       <workItem from="1592813931430" duration="7420000" />
-      <workItem from="1592880316354" duration="7560000" />
+      <workItem from="1592880316354" duration="8066000" />
     </task>
     <task id="LOCAL-00001" summary="学习到testNG-异常测试">
       <created>1592821729572</created>
