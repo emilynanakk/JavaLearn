@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0615a53c-37ea-4f53-88b2-286929e326a2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dfQzQa1JC6fbYnO9tECEaH6U91" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ExpectedException.runTimeExceptionSuccess">
+    <configuration name="D:/workspace/study/JavaLearn/Learn01/src/main/resources/groupsOnClass.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learn01" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Learn01/src/main/resources/groupsOnClass.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpectedException.RunTimeExceptionFailed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learn01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.java.testng.ExpectedException" />
+      <option name="METHOD_NAME" value="RunTimeExceptionFailed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpectedException.runTimeExceptionSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learn01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.java.testng.ExpectedException" />
+      <option name="METHOD_NAME" value="runTimeExceptionSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupsOnMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learn01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.testng.groups.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.testng.groups" />
+      <option name="MAIN_CLASS_NAME" value="com.java.testng.groups.GroupsOnMethod" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IgnoreTest.ignore1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learn01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.java.testng.IgnoreTest" />
+      <option name="METHOD_NAME" value="ignore1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ExpectedException.runTimeExceptionSuccess" />
+        <item itemvalue="TestNG.ExpectedException.RunTimeExceptionFailed" />
+        <item itemvalue="TestNG.D:/workspace/study/JavaLearn/Learn01/src/main/resources/groupsOnClass.xml" />
+        <item itemvalue="TestNG.GroupsOnMethod" />
+        <item itemvalue="TestNG.IgnoreTest.ignore1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0615a53c-37ea-4f53-88b2-286929e326a2" name="Default Changelist" comment="" />
+      <created>1592813930096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592813930096</updated>
+      <workItem from="1592813931430" duration="7323000" />
+    </task>
+    <task id="LOCAL-00001" summary="学习到testNG-异常测试">
+      <created>1592821729572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592821729572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="学习到testNG-异常测试">
+      <created>1592821867254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592821867254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习到testNG-异常测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习到testNG-异常测试" />
+  </component>
+</project>
