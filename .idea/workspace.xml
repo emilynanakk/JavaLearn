@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0615a53c-37ea-4f53-88b2-286929e326a2" name="Default Changelist" comment="" />
+    <list default="true" id="0615a53c-37ea-4f53-88b2-286929e326a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/multiThread/MultiThreadOnAnnotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/multiThread/MultiThreadOnXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/paramter/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/paramter/ParamterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn01/src/main/resources/Paramter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn01/src/main/resources/multiThread.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/BassicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learn01/src/main/java/com/java/testng/BassicAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn01/target/classes/com/java/testng/BassicAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Learn01/target/classes/com/java/testng/BassicAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn01/target/classes/groupsOnClass.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn01/target/classes/testng.xml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +34,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/javalearn" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -60,10 +88,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ExpectedException.runTimeExceptionSuccess">
-    <configuration name="D:/workspace/study/JavaLearn/Learn01/src/main/resources/groupsOnClass.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TimeOutTest">
+    <configuration name="D:/workspace/study/JavaLearn/Learn01/src/main/resources/multiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Learn01" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Learn01/src/main/resources/groupsOnClass.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Learn01/src/main/resources/multiThread.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -71,52 +99,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpectedException.RunTimeExceptionFailed" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProviderTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Learn01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.testng.*" />
+          <option name="PATTERN" value="com.java.testng.paramter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.java.testng.ExpectedException" />
-      <option name="METHOD_NAME" value="RunTimeExceptionFailed" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExpectedException.runTimeExceptionSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Learn01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.java.testng.ExpectedException" />
-      <option name="METHOD_NAME" value="runTimeExceptionSuccess" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupsOnMethod" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Learn01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.testng.groups.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java.testng.groups" />
-      <option name="MAIN_CLASS_NAME" value="com.java.testng.groups.GroupsOnMethod" />
+      <option name="PACKAGE_NAME" value="com.java.testng.paramter" />
+      <option name="MAIN_CLASS_NAME" value="com.java.testng.paramter.DataProviderTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -124,7 +116,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IgnoreTest.ignore1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProviderTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learn01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.testng.paramter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.testng.paramter" />
+      <option name="MAIN_CLASS_NAME" value="com.java.testng.paramter.DataProviderTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadOnAnnotion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learn01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.testng.multiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.testng.multiThread" />
+      <option name="MAIN_CLASS_NAME" value="com.java.testng.multiThread.MultiThreadOnAnnotion" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Learn01" />
       <extension name="coverage">
         <pattern>
@@ -133,9 +160,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.java.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.java.testng.IgnoreTest" />
-      <option name="METHOD_NAME" value="ignore1" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="com.java.testng.TimeOutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -144,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ExpectedException.runTimeExceptionSuccess" />
-        <item itemvalue="TestNG.ExpectedException.RunTimeExceptionFailed" />
-        <item itemvalue="TestNG.D:/workspace/study/JavaLearn/Learn01/src/main/resources/groupsOnClass.xml" />
-        <item itemvalue="TestNG.GroupsOnMethod" />
-        <item itemvalue="TestNG.IgnoreTest.ignore1" />
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG.D:/workspace/study/JavaLearn/Learn01/src/main/resources/multiThread.xml" />
+        <item itemvalue="TestNG.MultiThreadOnAnnotion" />
+        <item itemvalue="TestNG.DataProviderTest (1)" />
+        <item itemvalue="TestNG.DataProviderTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +188,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592813930096</updated>
-      <workItem from="1592813931430" duration="7323000" />
+      <workItem from="1592813931430" duration="7420000" />
+      <workItem from="1592880316354" duration="7560000" />
     </task>
     <task id="LOCAL-00001" summary="学习到testNG-异常测试">
       <created>1592821729572</created>
@@ -189,7 +216,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
