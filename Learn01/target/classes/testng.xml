@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="test">
+    <test name = "login">
+        <classes>
+            <class name="com.java.testng.suite.SuiteConfig"/>
+            <class name="com.java.testng.suite.LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="pay">
+        <classes>
+            <class name="com.java.testng.suite.SuiteConfig"/>
+            <class name="com.java.testng.suite.PayTest"/>
+        </classes>
+    </test>
+</suite>
