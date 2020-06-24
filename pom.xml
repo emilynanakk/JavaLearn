@@ -6,10 +6,13 @@
 
     <groupId>com.java.learn</groupId>
     <artifactId>Learn</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
         <module>Learn01</module>
+        <module>LearnReport</module>
+        <module>LearnHttpClient</module>
     </modules>
 
 

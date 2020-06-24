@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0615a53c-37ea-4f53-88b2-286929e326a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnHttpClient/LearnHttpClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnHttpClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnHttpClient/src/main/java/com/java/httpClient/cookies/MyCookiesForGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnHttpClient/src/main/java/com/java/httpClient/demo/MyHtttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnHttpClient/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMock/Readme基本操作说明" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMock/httpclientWithCookies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMock/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMock/startup1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMock/startupGet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMock/startupPost.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMock/startupWithCookies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMock/startupWithHeader.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMock/startupWithRedirect.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnReport/LearnReport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnReport/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnReport/src/main/java/com/tester/extend/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnReport/src/main/java/com/tester/extend/demo/TestMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnReport/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnReport/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnReport/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnReport/test-output/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn01/target/classes/META-INF/Learn01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn01/Learn01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn01/Learn01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,12 +105,23 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LearnMock" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tester.extend.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\study\JavaLearn\LearnMock" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,10 +135,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TimeOutTest">
-    <configuration name="D:/workspace/study/JavaLearn/Learn01/src/main/resources/multiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Learn01" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Learn01/src/main/resources/multiThread.xml" />
+  <component name="RunManager" selected="TestNG.MyCookiesForGet.testGetWithCookies">
+    <configuration name="D:/workspace/study/JavaLearn/LearnReport/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnReport" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/LearnReport/src/main/resources/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -88,34 +146,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProviderTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Learn01" />
+    <configuration name="MyCookiesForGet.testGetCookies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnHttpClient" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.testng.paramter.*" />
+          <option name="PATTERN" value="com.java.httpClient.cookies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.testng.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.java.testng.paramter.DataProviderTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProviderTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Learn01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.testng.paramter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java.testng.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.java.testng.paramter.DataProviderTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.java.httpClient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.java.httpClient.cookies.MyCookiesForGet" />
+      <option name="METHOD_NAME" value="testGetCookies" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -123,16 +164,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadOnAnnotion" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Learn01" />
+    <configuration name="MyCookiesForGet.testGetWithCookies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnHttpClient" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.testng.multiThread.*" />
+          <option name="PATTERN" value="com.java.httpClient.cookies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.testng.multiThread" />
-      <option name="MAIN_CLASS_NAME" value="com.java.testng.multiThread.MultiThreadOnAnnotion" />
+      <option name="PACKAGE_NAME" value="com.java.httpClient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.java.httpClient.cookies.MyCookiesForGet" />
+      <option name="METHOD_NAME" value="testGetWithCookies" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHtttpClient" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnHttpClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.httpClient.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.httpClient.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.java.httpClient.demo.MyHtttpClient" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -159,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MyCookiesForGet.testGetWithCookies" />
+        <item itemvalue="TestNG.MyCookiesForGet.testGetCookies" />
+        <item itemvalue="TestNG.MyHtttpClient" />
+        <item itemvalue="TestNG.D:/workspace/study/JavaLearn/LearnReport/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.TimeOutTest" />
-        <item itemvalue="TestNG.D:/workspace/study/JavaLearn/Learn01/src/main/resources/multiThread.xml" />
-        <item itemvalue="TestNG.MultiThreadOnAnnotion" />
-        <item itemvalue="TestNG.DataProviderTest (1)" />
-        <item itemvalue="TestNG.DataProviderTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +237,8 @@
       <option name="presentableId" value="Default" />
       <updated>1592813930096</updated>
       <workItem from="1592813931430" duration="7420000" />
-      <workItem from="1592880316354" duration="8066000" />
+      <workItem from="1592880316354" duration="8266000" />
+      <workItem from="1592896412332" duration="21551000" />
     </task>
     <task id="LOCAL-00001" summary="学习到testNG-异常测试">
       <created>1592821729572</created>
@@ -194,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592821867254</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加pom文件">
+      <created>1592896338792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592896338792</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +281,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="学习到testNG-异常测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习到testNG-异常测试" />
+    <MESSAGE value="增加pom文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加pom文件" />
   </component>
 </project>
